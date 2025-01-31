@@ -1,0 +1,21 @@
+.descripcion-js {
+    border: 2px solid #4CAF50;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .descripcion-js h2 {
+    color: #4CAF50;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .descripcion-js p {
+    font-size: 1em;
+    color: #333;
+  }
